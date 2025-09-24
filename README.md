@@ -26,7 +26,7 @@ If you want to run it on your computer:
 
 Clone this repo:
 
-git clone https://github.com/your-username/catch-the-dot.git
+git clone https://github.com/ShadowByte/catch-the-dot.git
 
 
 Open the folder:
