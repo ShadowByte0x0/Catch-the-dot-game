@@ -26,7 +26,7 @@ If you want to run it on your computer:
 
 Clone this repo:
 
-git clone https://github.com/ShadowByte/catch-the-dot.git
+git clone https://github.com/ShadowByte0x0/Catch-the-dot-game.
 
 
 Open the folder:
