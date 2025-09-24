@@ -28,6 +28,8 @@ Clone this repo:
 
 git clone https://github.com/ShadowByte0x0/Catch-the-dot-game.
 
+Play Online : https://shadowbyte0x0.github.io/Catch-the-dot-game/
+
 
 Open the folder:
 
